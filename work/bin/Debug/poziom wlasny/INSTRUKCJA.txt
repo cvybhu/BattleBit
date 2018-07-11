@@ -1,0 +1,12 @@
+Aby stworzyć własny poziom wejdz
+w folder "lvl1234" i otwórz plik "mapa.txt"
+
+Teraz możesz edytować go wpisując w odpowiednie miejsca
+odpowiednie litery:
+
+*spacja* - pusta przestrzen
+s - spawn bohatera
+w - wrog
+p - portal (wyjscie)
+
+Na koniec zapisz plik(!), uruchom grę i graj

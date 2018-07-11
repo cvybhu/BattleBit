@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1434142793 source:c:\users\janek\desktop\battlebit\main.cpp
+	<direct.h>
+	<unistd.h>
+	<allegro.h>
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	"tajmer.h"
+	"struktury.h"
+	"grafika.h"
+	"symulacje.h"
+	"wczytywanie.h"
+	"AI.h"
+	"graj.h"
+	"edytor.h"
+	"menu.h"
+
+1431706746 c:\users\janek\desktop\battlebit\tajmer.h
+	<allegro.h>
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1434097454 c:\users\janek\desktop\battlebit\struktury.h
+	<allegro.h>
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1434118295 c:\users\janek\desktop\battlebit\grafika.h
+	<allegro.h>
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1434104505 c:\users\janek\desktop\battlebit\symulacje.h
+	<allegro.h>
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1434118279 c:\users\janek\desktop\battlebit\wczytywanie.h
+	<allegro.h>
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1434110498 c:\users\janek\desktop\battlebit\ai.h
+	<allegro.h>
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1434175080 c:\users\janek\desktop\battlebit\graj.h
+	<allegro.h>
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1431706668 c:\users\janek\desktop\battlebit\edytor.h
+	<allegro.h>
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1434175275 c:\users\janek\desktop\battlebit\menu.h
+	<allegro.h>
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
